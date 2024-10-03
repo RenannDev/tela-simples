@@ -4,7 +4,7 @@ Esta é minha primeira aplicação desenvolvida usando a biblioteca React. O pro
 
 ## Visão geral
 
-É um aplicação bem simples somente com um formulário de login e cadastro juntos, além disso, o código está somente em um arquivo já que é pequeno e não era necessário criar outras pastas para colocar os componentes react.
+É uma aplicação bem simples somente com um formulário de login e cadastro juntos, além disso, o código está somente em um arquivo já que é pequeno e não era necessário criar outras pastas para colocar os componentes react.
 
 ### Tecnologias Utilizadas
 
